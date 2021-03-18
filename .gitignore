@@ -30,5 +30,7 @@ MANIFEST
 
 # Jupyter Notebook
 .ipynb_checkpoints
+# private notebooks
+_*.ipynb
 
 .DS_Store
